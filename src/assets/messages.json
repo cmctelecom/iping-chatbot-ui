@@ -1,0 +1,24 @@
+{
+  "processing": [
+    "Đang xác thực giọng nói, xử lý nhiễu, mã hóa dữ liệu với Cloud Storage...",
+    "Đang xử lý dữ liệu sử dụng thuật toán của Google Cloud",
+    "Đang làm sạch dữ liệu, xin hãy kiên nhẫn"
+  ],
+  "posting": [
+    "Đang đợi máy chủ xử lý, vui lòng đợi",
+    "Giọng nói của bạn đã chạm tới hệ thống, đợi phản hồi nhé",
+    "Đang xử lý yêu cầu và đợi phản hồi",
+    "Dữ liệu đang được server giải mã, đợi Google phản hồi."
+  ],
+  "error": [
+    "Gì cơ, bot không nghe thấy, và chúng tôi cũng vậy. Click để nói lại.",
+    "Tiếng nói của bạn đại diện cho doanh nghiệp, hãy nói to hơn để chúng tôi xử lý nhé.",
+    "Âm thanh im ắng như màn đêm tĩnh lặng, bạn có ở đó không? Click để nói lại.",
+    "5 giây đã trôi qua và bot đã mất kiên nhẫn rồiiiiii. Click để gọi bot dậy nhé."
+  ],
+  "system": [
+    "Có vẻ lập trình viên đã ngắt hệ thống để bảo trì. Quay lại sau nhé.",
+    "Máy chủ đã gặp phải lỗi, rất xin lỗi về sự bất tiện này.",
+    "Ôi không, đã có lỗi xảy ra ở phía server. Vui lòng liên hệ quản lý để tiến hành sửa chữa."
+  ]
+}
